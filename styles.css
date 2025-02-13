@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffebef;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    border: 2px solid #ff3366;
+}
+
+h1 {
+    color: #d6336c;
+    font-size: 24px;
+}
+
+h2 {
+    color: #ff3366;
+    font-size: 20px;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+.signature {
+    font-style: italic;
+    font-weight: bold;
+    color: #d6336c;
+}
